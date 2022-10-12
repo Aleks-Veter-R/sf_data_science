@@ -7,7 +7,7 @@ From the [SkillFactory Data Science course](https://skillfactorry.ru/data-scient
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/Aleks-Veter-R/sf_data_science)
+* [Проект 0. Игра: Угадай число](https://github.com/Aleks-Veter-R/sf_data_science/tree/main/project_0)
 * [Проект 1. _______](___)
 * [Проект 2. _______](___)
 
