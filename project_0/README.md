@@ -13,7 +13,7 @@
 
 Игра "Угадай  число". Цель игры, угдать загаданное компьютером число за минимальное количество попыток
 
-:arrow_uup:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -31,29 +31,29 @@
 
 Учимся писать хороший код на языке Python
 
-:arrow_uup:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Краткая информация о данных
 
 Машина случайным образом загадывает целое число
 
-:arrow_uup:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
 - Написание кода
 - Тестирование
 
-:arrow_uup:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Результат
 
 ...
 
-:arrow_uup:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы
 
 ...
 
-:arrow_uup:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleks-Veter-R/sf_data_science/blob/main/project_0/README.md#Оглавление)
